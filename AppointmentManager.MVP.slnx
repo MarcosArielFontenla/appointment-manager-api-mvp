@@ -1,0 +1,43 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/0. API/">
+    <Project Path="AppointmentManager.API/AppointmentManager.API.csproj" Id="e54f77d7-6cd4-4d76-b0f5-386b3b5ace89" />
+  </Folder>
+  <Folder Name="/src/1. Modules/" />
+  <Folder Name="/src/1. Modules/Appointments/">
+    <Project Path="AppointmentManager.Modules.Appointments.Application/AppointmentManager.Modules.Appointments.Application.csproj" Id="7612ac4e-eee3-4e1f-ab2d-2b2eb11e59c5" />
+    <Project Path="AppointmentManager.Modules.Appointments.Domain/AppointmentManager.Modules.Appointments.Domain.csproj" Id="cb7eb51e-dcdd-44d1-8458-4156140a8bf1" />
+    <Project Path="AppointmentManager.Modules.Appointments.Infrastructure/AppointmentManager.Modules.Appointments.Infrastructure.csproj" Id="babbcee1-8232-4b8e-91d2-c33538a38bee" />
+  </Folder>
+  <Folder Name="/src/1. Modules/Clinical/">
+    <Project Path="AppointmentManager.Modules.Clinical.Application/AppointmentManager.Modules.Clinical.Application.csproj" Id="3c8235a7-51c1-4a4d-b4e8-34b959769ef8" />
+    <Project Path="AppointmentManager.Modules.Clinical.Domain/AppointmentManager.Modules.Clinical.Domain.csproj" Id="688cc422-e43c-4c15-ae12-337cdcfd3124" />
+    <Project Path="AppointmentManager.Modules.Clinical.Infrastructure/AppointmentManager.Modules.Clinical.Infrastructure.csproj" Id="041dc753-ed17-47d3-a6e3-e905e87ca5cf" />
+  </Folder>
+  <Folder Name="/src/1. Modules/Configuration/">
+    <Project Path="AppointmentManager.Modules.Configuration.Application/AppointmentManager.Modules.Configuration.Application.csproj" Id="53b77769-a26d-4bc2-9cfe-2a598c7cd6a5" />
+    <Project Path="AppointmentManager.Modules.Configuration.Domain/AppointmentManager.Modules.Configuration.Domain.csproj" Id="9da86e04-f170-439b-9b76-3ec20dce9f5d" />
+    <Project Path="AppointmentManager.Modules.Configuration.Infrastructure/AppointmentManager.Modules.Configuration.Infrastructure.csproj" Id="7b79482f-168d-4a95-ba95-0814accc3d94" />
+  </Folder>
+  <Folder Name="/src/1. Modules/Identity/">
+    <Project Path="AppointmentManager.Modules.Identity.Application/AppointmentManager.Modules.Identity.Application.csproj" Id="258aad68-37d4-4cd0-9400-2a3883cb2709" />
+    <Project Path="AppointmentManager.Modules.Identity.Domain/AppointmentManager.Modules.Identity.Domain.csproj" Id="180adba9-319a-4aad-9ed2-3dcbf66c3c8e" />
+    <Project Path="AppointmentManager.Modules.Identity.Infrastructure/AppointmentManager.Modules.Identity.Infrastructure.csproj" Id="d142a05e-1581-4220-9ddc-74064043c300" />
+  </Folder>
+  <Folder Name="/src/1. Modules/Notifications/">
+    <Project Path="AppointmentManager.Modules.Notifications.Application/AppointmentManager.Modules.Notifications.Application.csproj" Id="a425b282-8aa9-4354-82cc-633276279f8a" />
+    <Project Path="AppointmentManager.Modules.Notifications.Domain/AppointmentManager.Modules.Notifications.Domain.csproj" Id="fb2e8672-0139-4231-af75-e9d8b37e496f" />
+    <Project Path="AppointmentManager.Modules.Notifications.Infrastructure/AppointmentManager.Modules.Notifications.Infrastructure.csproj" Id="cc58f438-d5d6-4789-81fb-987dbb7293bc" />
+  </Folder>
+  <Folder Name="/src/1. Modules/Patients/">
+    <Project Path="AppointmentManager.Modules.Patients.Application/AppointmentManager.Modules.Patients.Application.csproj" Id="529f05ca-ee9c-4f70-a425-813a8479a8dd" />
+    <Project Path="AppointmentManager.Modules.Patients.Domain/AppointmentManager.Modules.Patients.Domain.csproj" Id="6b3a6601-f121-4dc1-8037-eb577430cef5" />
+    <Project Path="AppointmentManager.Modules.Patients.Infrastructure/AppointmentManager.Modules.Patients.Infrastructure.csproj" Id="de026745-fa13-4678-960a-e346c62ab9a3" />
+  </Folder>
+  <Folder Name="/src/2. Shared/">
+    <Project Path="AppointmentManager.Shared.Abstractions/AppointmentManager.Shared.Abstractions.csproj" Id="280125c4-51be-4dfe-accb-d3f4ba0e1a21" />
+    <Project Path="AppointmentManager.Shared.Contracts/AppointmentManager.Shared.Contracts.csproj" Id="dec842ed-8f7e-4df7-a34f-aee8a805951a" />
+    <Project Path="AppointmentManager.Shared.Infrastructure/AppointmentManager.Shared.Infrastructure.csproj" Id="1242f07f-a114-45c0-8f0d-e377b7ac71b9" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>

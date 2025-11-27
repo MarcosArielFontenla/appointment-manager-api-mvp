@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+bin/
+obj/
+*.userosscache
+*.ide.*
+
+# Rider
+.idea/
+
+# Build results
+build/
+publish/
+
+# NuGet
+*.nupkg
+packages/
+
+# ASP.NET
+appsettings.*.json
+
+# OS files
+.DS_Store
+Thumbs.db
